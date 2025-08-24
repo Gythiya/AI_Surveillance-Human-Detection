@@ -1,0 +1,22 @@
+{
+  "os":  "Windows-11-10.0.26100-SP0",
+  "python":  "CPython 3.12.2",
+  "startedAt":  "2025-08-24T01:28:51.161912Z",
+  "program":  "<python with no main file>",
+  "email":  "levantan0701@gmail.com",
+  "root":  "e:\\semester\\sem 7\\honeywell\\human_detection",
+  "host":  "LAPTOP-A4M64BLN",
+  "executable":  "c:\\Users\\Gythiya\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "cpu_count":  12,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "170184929280",
+      "used":  "131748958208"
+    }
+  },
+  "memory":  {
+    "total":  "16785268736"
+  },
+  "writerId":  "jzc9jfnm12k5p7de65bjsfs2z0jy0s2v"
+}
